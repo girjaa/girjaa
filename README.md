@@ -29,7 +29,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=USERNAME-UL-TAU-GITHUB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
